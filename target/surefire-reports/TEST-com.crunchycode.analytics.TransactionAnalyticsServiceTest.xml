@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.052" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy\target\test-classes;E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy\target\classes;C:\Users\Manikanta\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\Manikanta\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Manikanta\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\Manikanta\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Manikanta\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\Manikanta\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\Manikanta\AppData\Local\Temp\surefire4852873382296359032\surefirebooter-20261013102314539_3.jar C:\Users\Manikanta\AppData\Local\Temp\surefire4852873382296359032 2026-10-13T10-23-14_442-jvmRun1 surefire-20261013102314539_1tmp surefire_0-20261013102314539_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy\target\test-classes;E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy\target\classes;C:\Users\Manikanta\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\Manikanta\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Manikanta\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\Manikanta\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Manikanta\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\Manikanta\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Manikanta"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Manikanta\AppData\Local\Temp\surefire4852873382296359032\surefirebooter-20261013102314539_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.9+7-LTS-338"/>
+    <property name="user.name" value="Manikanta"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Manikanta\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MANIKA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.9"/>
+    <property name="user.dir" value="E:\Crunchy Code Internship\crunchy-java-backend-t1-monkey9-Cyber-cat-Spidy"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-21\bin;C:/Users/Manikanta/.gemini/antigravity/bin;C:\Users\Manikanta\AppData\Roaming\Antigravity\bin;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Microsoft\jdk-17.0.16.8-hotspot\bin;c:\Users\Manikanta\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Google\Chrome\Application;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\Users\Manikanta\AppData\Local\Programs\Trae\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Manikanta\AppData\Local\Microsoft\WindowsApps;C:\Program Files\php-8.4.1;C:\Users\Manikanta\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\P;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\xampp\php;C:\Program Files\Redis\;C:\Ruby34-x64\bin;C:\Program Files\PostgreSQL\18\bin;C:\Program Files\Elixir\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\WSL\;C:\Program Files\Tailscale\;D:\hermes\node;D:\hermes\bin;C:\Users\Manikanta\.local\bin;C:\Users\Manikanta\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Manikanta\AppData\Local\Programs\Python\Python311\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Manikanta\AppData\Local\Microsoft\WindowsApps;C:\Users\Manikanta\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\php-8.4.1;C:\Users\Manikanta\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Program Files\nodejs;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\Manikanta\AppData\Local\Microsoft\WindowsApps;C:\Users\Manikanta\AppData\Local\Programs\Ollama;C:\Users\Manikanta\\.local\\bin;D:\Windsurf\bin;C:\ProgramData\chocolatey\lib\elixir\tools\bin;C:\Users\Manikanta\bin;C:\Users\Manikanta\.lmstudio\bin;C:\Users\Manikanta\AppData\Local\Programs\Antigravity\bin;C:\Program Files\apache-maven-3.9.12\bin;F:\Warp\bin;E:\Antigravity IDE\bin;C:\Users\Manikanta\AppData\Local\Programs\Antigravity IDE\bin;F:\Kiro\bin;C:\Users\Manikanta\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool;C:\Users\Manikanta\AppData\Local\Microsoft\WinGet\Packages\BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe\ripgrep-15.2.0-x86_64-pc-windows-msvc;C:\Users\Manikanta\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin;C:\Users\Manikanta\AppData\Local\Programs\Cua\cua-driver\bin;D:\npm-global;C:\Users\Manikanta\AppData\Roaming\npm;D:\npm-global;F:\Zed\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.9+7-LTS-338"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testMonthlyTotalsEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.012"/>
+  <testcase name="testTopCustomersEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.003"/>
+  <testcase name="testFailureRateByMerchantEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.001"/>
+  <testcase name="testAnomaliesEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.001"/>
+  <testcase name="testDuplicatesEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.005"/>
+  <testcase name="testCategoryBreakdownEquivalence" classname="com.crunchycode.analytics.TransactionAnalyticsServiceTest" time="0.001"/>
+</testsuite>

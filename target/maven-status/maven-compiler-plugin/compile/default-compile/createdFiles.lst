@@ -1,0 +1,8 @@
+com\crunchycode\analytics\service\LoopTransactionService.class
+com\crunchycode\analytics\service\TransactionAnalyticsService.class
+com\crunchycode\analytics\model\Transaction.class
+com\crunchycode\analytics\service\StreamTransactionService.class
+com\crunchycode\analytics\data\CsvTransactionParser.class
+com\crunchycode\analytics\Main$BenchmarkResult.class
+com\crunchycode\analytics\service\LoopTransactionService$1.class
+com\crunchycode\analytics\Main.class
